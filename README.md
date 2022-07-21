@@ -1,1 +1,1 @@
-# React_Random_User_App_2
+![Random User App](random-user-app.gif)
